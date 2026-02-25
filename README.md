@@ -21,6 +21,7 @@ Hafiflik, hız, basitlik ve minimum karmaşıklık prensipleriyle geliştirilmi�
 Uygulamayı kullanmaya başlamak çok kolay:
 
 Releases sayfasına gidin.
+Veya ["https://drive.google.com/file/d/1kR6fZQC2ePXt02ctlHYtU7fAlg5m-eEa/view?usp=drive_link"] adresine gidin
 
 En son sürümdeki MeSeQuickNoteLauncher.exe dosyasını indirin.
 
